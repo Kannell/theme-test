@@ -1,4 +1,3 @@
-/*Internet Explorer 11 compatibility workaround - IE does not support CSS variables */
 
 @media all and (-ms-high-contrast: none),
 (-ms-high-contrast: active) {

@@ -4,7 +4,6 @@
     height: 100%;
 }
 
-/*IE compatibility*/
 .pf-c-form-control {
     font-size: 14px;
     font-size: var(--pf-global--FontSize--sm);
